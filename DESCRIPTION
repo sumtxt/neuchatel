@@ -1,0 +1,13 @@
+Package: neuchatel
+Title: Tools to work with data from the Federal Statistical Office of Switzerland 
+Version: 1.0.0
+Date: 2017-12-31
+Author: Moritz Marbach" <moritz.marbach@gess.ethz.ch> [aut, cre]
+Maintainer: Moritz Marbach <moritz.marbach@gess.ethz.ch>
+Description: Toolbox to convert numerical codes etc. 
+Depends: 
+	R (>= 3.4.1)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
